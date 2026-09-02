@@ -1,0 +1,2 @@
+# Authorized digital sellers for A&A Games.
+# Add AdMob / seller entries here. This file must remain at the site root.
